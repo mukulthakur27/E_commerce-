@@ -281,7 +281,7 @@ WHERE rnk = 2;
 
 # 👨‍💻 Author
 
-**Mukul Thakur**  
+**Mukul Singh**  
 BCA Student | Aspiring Data Analyst  
 Skilled in SQL, Excel & Data Analytics  
 
