@@ -60,8 +60,7 @@ This project is ideal for beginners and aspiring Data Analysts who want hands-on
 ✔ INNER JOIN  
 ✔ LEFT JOIN  
 ✔ Aggregate Functions (SUM, COUNT, AVG)  
-✔ Subqueries  
-✔ DISTINCT  
+✔ Subqueries    
 ✔ Window Functions (RANK)  
 ✔ CTE (Common Table Expression)  
 
